@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a particle physics researcher and data scientist at Brown University.
+
+- 📫 How to reach me: <-- check contact info in my profile
+- 💬 Ask me about ML4SCI projects at the Google Summer of Code 2021
+- 😄 Pronouns: he/they
+
 <!--
 **emanueleusai/emanueleusai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
