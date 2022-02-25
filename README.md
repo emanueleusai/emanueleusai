@@ -3,7 +3,7 @@
 I am a particle physics researcher and data scientist at Brown University.
 
 - 📫 How to reach me: <-- check contact info in my profile
-- 💬 Ask me about ML4SCI projects at the Google Summer of Code 2021
+- 💬 Ask me about ML4SCI projects at the Google Summer of Code 2022
 - 😄 Pronouns: he/they
 
 <!--
