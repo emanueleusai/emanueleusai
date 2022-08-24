@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi there
 
-I am a particle physics researcher and data scientist at Brown University.
+I am an Assistant Professor at the University of Alabama.
 
-- 📫 How to reach me: <-- check contact info in my profile
-- 💬 Ask me about ML4SCI projects at the Google Summer of Code 2022
-- 😄 Pronouns: he/they
+- How to reach me: <-- check contact info in my profile
+- Ask me about particle physics and machine learning in science
+- Pronouns: he/him or any gender neutral pronouns
 
 <!--
 **emanueleusai/emanueleusai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
